@@ -1,0 +1,23 @@
+{
+  "name": "package-lab",
+  "version": "1.0.0",
+  "description": "Package information",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aadrew/package-lab.git"
+  },
+  "author": "aadrew",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aadrew/package-lab/issues"
+  },
+  "homepage": "https://github.com/aadrew/package-lab#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "js-yaml": "^3.12.1"
+  }
+}
